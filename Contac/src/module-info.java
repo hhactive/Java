@@ -1,0 +1,2 @@
+module Contac {
+}
