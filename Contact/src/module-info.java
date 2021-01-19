@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author MattZ
- *
- */
-module contact {
-}
